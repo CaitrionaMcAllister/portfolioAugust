@@ -1,10 +1,15 @@
 import NavLinks from "./NavLinks";
-import logo from "../images/cmcaLogo2.png";
+import logo from "../images/cmcaLogo.png";
 
 const Header = () => {
   return (
     <header className="header">
-      <img className="logo" src={logo} alt="Caitriona McAllister' Logo" />
+      <img
+        className="logo"
+        src={logo}
+        alt="Caitriona McAllister' Logo"
+        href="/about"
+      />
       <NavLinks />
     </header>
   );

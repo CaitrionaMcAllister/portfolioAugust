@@ -8,7 +8,10 @@ const NavLinks = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   return (
     <>
-      <button className="dropdown-toggle" onClick={() => setIsMenuOpen(!isMenuOpen)}>
+      <button
+        className="dropdown-toggle"
+        onClick={() => setIsMenuOpen(!isMenuOpen)}
+      >
         {isMenuOpen ? (
           <img className="closeMenu" src={closeMenu} alt="Close" />
         ) : (
@@ -34,3 +37,20 @@ const NavLinks = () => {
 };
 
 export default NavLinks;
+
+// const ProjectLinks = () => {
+//   return (
+//     <>
+//       <nav>
+//         <NavLink to="/PlasticVortex">Plastic Vortex</NavLink>
+//         <NavLink to="/MarioMethod">Mario Method</NavLink>
+//         <NavLink to="/ByteMe">ByteMe</NavLink>
+//         <NavLink to="/HomeHeatMap">Home Heat Map</NavLink>
+//         <NavLink to="/Chill">Chill</NavLink>
+//         <NavLink to="/Experiments">Experiments</NavLink>
+//       </nav>
+//     </>
+//   );
+// };
+
+// export { ProjectLinks };

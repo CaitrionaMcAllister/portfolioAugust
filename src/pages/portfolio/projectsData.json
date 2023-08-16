@@ -1,17 +1,17 @@
 [
   {
     "title": "Plastic Vortex",
-    "image": "./projectImages/bike.png",
+    "image": "./projectImages/7.png",
     "description": "Plastic Vortex takes a deep dive into ocean plastics and marine debris caused by human negligence. The project is inspired by a NASA satellite data that tracks the movement of micro- plastics in a densely polluted area of the Pacific Ocean, also known as the Great Pacific Garbage Patch. This series of interactive visuals include an audio and motion reactive installation piece, supporting editorial and augmented reality animation.",
     "technologies": "Touch Designer | Projection Mapping | Data",
     "github": "https://github.com/mdyeates/bike-buddy",
-    "deployed": "https://norrinradd8.github.io/bike_buddy/",
-    "bgcolor": "#f37737",
+    "deployed": "https://youtu.be/eZFFE6rRdx4",
+    "bgcolor": "#0000ff",
     "id": "1"
   },
   {
     "title": "Mario Method",
-    "image": "./projectImages/weather.png",
+    "image": "./projectImages/MarioMethod.png",
     "technologies": "React Three Fiber | HTML | Web",
     "description": " The Mario Method is an interactive 3D website that explores digital landscapes, immersion, and gamification. Developed using React Three Fiber, this platform provides an immersive experience for users to interact and navigate. The Mario Method combines nostalgia, innovative technology, and a gamified approach to redefine the concept of interactive websites. The website invites users to contemplate the notion of digital environments as tangible and interactive spaces.",
     "github": "https://github.com/mdyeates/weather-app",

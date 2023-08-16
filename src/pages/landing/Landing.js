@@ -43,7 +43,6 @@ const Landing = ({ name }) => {
 
   return (
     <section className="landing" style={styles.landing}>
-      <Background />
       <Cursor />
       {/* <Draw /> */}
       <div className="textContainer" style={styles.textContainer}>
@@ -98,6 +97,7 @@ const Landing = ({ name }) => {
         />
       </div> */}
       <SocialIcons />
+      <Background />
     </section>
   );
 };

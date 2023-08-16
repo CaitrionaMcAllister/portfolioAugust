@@ -4,7 +4,7 @@ import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
 import { useLoader } from "@react-three/fiber";
 
 function Model() {
-  const model = useLoader(GLTFLoader, "../pages/landing/scene.glb");
+  const model = useLoader(GLTFLoader, "../../public/scene.glb");
   return <primitive object={model.scene} scale={0.03} position={[0, -7, 0]} />;
 }
 
@@ -12,7 +12,7 @@ function Background({ ready }) {
   return (
     <>
       <Canvas
-        style={{ position: "fixed", top: 0, left: 0 }}
+        style={{ position: "fixed", top: 50, left: 0 }}
         width={window.innerWidth}
         height={window.innerHeight}
         camera={{ position: [0, 6, 20], fov: 40 }}
