@@ -1,4 +1,4 @@
-import { emojiCursor } from "cursor-effects";
+// import { emojiCursor } from "cursor-effects";
 import { fairyDustCursor } from "https://unpkg.com/cursor-effects@latest/dist/esm.js";
 
 function Cursor() {
