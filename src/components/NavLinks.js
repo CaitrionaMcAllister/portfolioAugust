@@ -39,19 +39,19 @@ const NavLinks = () => {
 
 export default NavLinks;
 
-const ProjectLinks = () => {
-  return (
-    <>
-      <nav>
-        <NavLink to="/PlasticVortex">Plastic Vortex</NavLink>
-        <NavLink to="/MarioMethod">Mario Method</NavLink>
-        <NavLink to="/ByteMe">ByteMe</NavLink>
-        <NavLink to="/HomeHeatMap">Home Heat Map</NavLink>
-        <NavLink to="/Chill">Chill</NavLink>
-        <NavLink to="/Experiments">Experiments</NavLink>
-      </nav>
-    </>
-  );
-};
+// const ProjectLinks = () => {
+//   return (
+//     <>
+//       <nav>
+//         <NavLink to="/PlasticVortex">Plastic Vortex</NavLink>
+//         <NavLink to="/MarioMethod">Mario Method</NavLink>
+//         <NavLink to="/ByteMe">ByteMe</NavLink>
+//         <NavLink to="/HomeHeatMap">Home Heat Map</NavLink>
+//         <NavLink to="/Chill">Chill</NavLink>
+//         <NavLink to="/Experiments">Experiments</NavLink>
+//       </nav>
+//     </>
+//   );
+// };
 
-export { ProjectLinks };
+// export { ProjectLinks };
