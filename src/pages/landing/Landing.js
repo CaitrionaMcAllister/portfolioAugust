@@ -96,8 +96,8 @@ const Landing = ({ name }) => {
           alt="Caitriona McAllister"
         />
       </div> */}
-      <SocialIcons />
       <Background />
+      <SocialIcons />
     </section>
   );
 };

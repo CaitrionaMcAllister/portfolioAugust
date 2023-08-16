@@ -1,6 +1,6 @@
 [
   {
-    "title": "Plastic Vortex",
+    "title": "Plastic.Vortex",
     "image": "./projectImages/7.png",
     "description": "Plastic Vortex takes a deep dive into ocean plastics and marine debris caused by human negligence. The project is inspired by a NASA satellite data that tracks the movement of micro- plastics in a densely polluted area of the Pacific Ocean, also known as the Great Pacific Garbage Patch. This series of interactive visuals include an audio and motion reactive installation piece, supporting editorial and augmented reality animation.",
     "technologies": "Touch Designer | Projection Mapping | Data",
@@ -10,54 +10,54 @@
     "id": "1"
   },
   {
-    "title": "Mario Method",
-    "image": "./projectImages/MarioMethod.png",
+    "title": "Mario.Method",
+    "image": "./projectImages/5.png",
     "technologies": "React Three Fiber | HTML | Web",
-    "description": " The Mario Method is an interactive 3D website that explores digital landscapes, immersion, and gamification. Developed using React Three Fiber, this platform provides an immersive experience for users to interact and navigate. The Mario Method combines nostalgia, innovative technology, and a gamified approach to redefine the concept of interactive websites. The website invites users to contemplate the notion of digital environments as tangible and interactive spaces.",
+    "description": " The Mario Method is an interactive 3D website that explores digital landscapes, immersion, and gamification. Developed using React Three Fiber, this platform provides an immersive experience for users to interact and navigate. The Mario Method combines nostalgia, innovative technology, and a gamified approach to redefine the concept of interactive websites. The website invites users to contemplate the notion of digital environments as tangible and interactive spaces. Best on Chrome",
     "github": "https://github.com/mdyeates/weather-app",
-    "deployed": "https://mdyeates.github.io/weather-app/",
-    "bgcolor": "#29cbe0",
+    "deployed": "https://youtu.be/GekQMljEEqw",
+    "bgcolor": "#FF8700",
     "id": "2"
   },
   {
     "title": "ByteMe",
-    "image": "./projectImages/team.png",
+    "image": "./projectImages/11.png",
     "technologies": "After Effects | Photoshop | Illustrator",
     "description": "ByteMe is an empowering festival designed to spark young womens coding careers. With a commitment to breaking down barriers and fostering inclusivity, <ByteMe encourages young women to fearlessly enter a male-dominated industry and explore a new realm of possibilities.",
     "github": "https://github.com/mdyeates/team-dashboard",
-    "deployed": "https://drive.google.com/file/d/1_atUXTM-L9r4NccsrPaaWqPyNu37ftwH/view",
+    "deployed": "https://www.youtube.com/watch?v=mG8LwCPy4bM",
     "bgcolor": "#6c4bf4",
     "id": "3"
   },
   {
-    "title": "Home Heat Map",
-    "image": "./projectImages/quiz.png",
+    "title": "Home.Heat.Map",
+    "image": "./projectImages/15.png",
     "technologies": "WEBGL | Data API",
     "description": " The Home Heat Map project combines web development, interaction design, and 3D design using WebGL to create an immersive web experience. It visualizes live data on a dynamic 3D globe, enabling users to explore and analyze global data trends in real-time. The 3D globe visualises the popularity of remote working before, during and after the Covid pandemic.",
     "github": "https://github.com/mdyeates/coding-quiz",
     "deployed": "https://mdyeates.github.io/coding-quiz/",
-    "bgcolor": "#f85781",
+    "bgcolor": "#ffcc33",
     "id": "4"
   },
 
   {
     "title": "Chill",
-    "image": "./projectImages/P1.png",
+    "image": "./projectImages/30.png",
     "description": "Chill establishes an environmentally friendly and sustainable flavoured water company with natural ingredients, eco-friendly practices, and a focus on health-conscious consumers. The colorful branding inspired by nature, natural fruit flavors, and environmental responsibility.",
     "technologies": "React | Framer | CSS | Bootstrap | Node",
     "github": "https://github.com/Jake-W95/P1",
-    "deployed": "https://p1-heroes.netlify.app/",
-    "bgcolor": "#ffcc33",
+    "deployed": "https://youtu.be/JWUay__r0Lg",
+    "bgcolor": "#f85781",
     "id": "1"
   },
 
   {
     "title": "Experiments",
-    "image": "./projectImages/planner.png",
+    "image": "./projectImages/17.png",
     "technologies": "Explorations | Emerging Tech | W-I-P",
     "description": "Check out some of my on going experiments, works in progress and tests with some awesome technologies!",
-    "github": "https://github.com/mdyeates/daily-planner",
-    "deployed": "https://mdyeates.github.io/daily-planner/",
+    "github": "https://www.instagram.com/caitriona_mcallister/",
+    "deployed": "https://youtu.be/NXSc4ugmvHU",
     "bgcolor": "#3e67ff",
     "id": "6"
   }
