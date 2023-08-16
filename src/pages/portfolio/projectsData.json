@@ -5,7 +5,7 @@
     "description": "Plastic Vortex takes a deep dive into ocean plastics and marine debris caused by human negligence. The project is inspired by a NASA satellite data that tracks the movement of micro- plastics in a densely polluted area of the Pacific Ocean, also known as the Great Pacific Garbage Patch. This series of interactive visuals include an audio and motion reactive installation piece, supporting editorial and augmented reality animation.",
     "technologies": "Touch Designer | Projection Mapping | Data",
     "seeMore": "https://caitrionamcallister.com/PlasticVortex",
-    "deployed": "https://youtu.be/eZFFE6rRdx4",
+    "videoSummary": "https://youtu.be/eZFFE6rRdx4",
     "bgcolor": "#0000ff",
     "id": "1"
   },
@@ -15,7 +15,7 @@
     "technologies": "React Three Fiber | HTML | Web",
     "description": " The Mario Method is an interactive 3D website that explores digital landscapes, immersion, and gamification. Developed using React Three Fiber, this platform provides an immersive experience for users to interact and navigate. The Mario Method combines nostalgia, innovative technology, and a gamified approach to redefine the concept of interactive websites. The website invites users to contemplate the notion of digital environments as tangible and interactive spaces. Best on Chrome",
     "seeMore": "https://caitrionamcallister.com/TheMarioMethod",
-    "deployed": "https://youtu.be/GekQMljEEqw",
+    "videoSummary": "https://youtu.be/GekQMljEEqw",
     "bgcolor": "#FF8700",
     "id": "2"
   },
@@ -25,7 +25,7 @@
     "technologies": "After Effects | Photoshop | Illustrator",
     "description": "ByteMe is an empowering festival designed to spark young womens coding careers. With a commitment to breaking down barriers and fostering inclusivity, <ByteMe encourages young women to fearlessly enter a male-dominated industry and explore a new realm of possibilities.",
     "seeMore": "https://caitrionamcallister.com/ByteMe",
-    "deployed": "https://www.youtube.com/watch?v=mG8LwCPy4bM",
+    "videoSummary": "https://www.youtube.com/watch?v=mG8LwCPy4bM",
     "bgcolor": "#6c4bf4",
     "id": "3"
   },
@@ -35,7 +35,7 @@
     "technologies": "WEBGL | Data API",
     "description": " The Home Heat Map project combines web development, interaction design, and 3D design using WebGL to create an immersive web experience. It visualizes live data on a dynamic 3D globe, enabling users to explore and analyze global data trends in real-time. The 3D globe visualises the popularity of remote working before, during and after the Covid pandemic.",
     "seeMore": "https://caitrionamcallister.com/HomeHeatMap",
-    "deployed": "https://caitrionamcallister.com/HomeHeatMap",
+    "videoSummary": "https://caitrionamcallister.com/HomeHeatMap",
     "bgcolor": "#ffcc33",
     "id": "4"
   },
@@ -46,7 +46,7 @@
     "description": "Chill establishes an environmentally friendly and sustainable flavoured water company with natural ingredients, eco-friendly practices, and a focus on health-conscious consumers. The colorful branding inspired by nature, natural fruit flavors, and environmental responsibility.",
     "technologies": "Phtoography | AfterEffects | Branding",
     "seeMore": "https://caitrionamcallister.com/Chill",
-    "deployed": "https://youtu.be/JWUay__r0Lg",
+    "videoSummary": "https://youtu.be/JWUay__r0Lg",
     "bgcolor": "#f85781",
     "id": "1"
   },
@@ -57,7 +57,7 @@
     "technologies": "Explorations | Emerging Tech | W-I-P",
     "description": "Check out some of my on going experiments, works in progress and tests with some awesome technologies!",
     "seeMore": "https://www.instagram.com/caitriona_mcallister/",
-    "deployed": "https://youtu.be/NXSc4ugmvHU",
+    "videoSummary": "https://youtu.be/NXSc4ugmvHU",
     "bgcolor": "#3e67ff",
     "id": "6"
   }

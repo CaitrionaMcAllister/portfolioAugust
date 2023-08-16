@@ -13,7 +13,7 @@ const Portfolio = () => {
         image={project.image}
         color={project.bgcolor}
         seeMore={project.seeMore}
-        deployed={project.deployed}
+        videoSummary={project.videoSummary}
         description={project.description}
       />
     ));
