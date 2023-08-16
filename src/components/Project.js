@@ -10,7 +10,7 @@ const Project = ({
   image,
   color,
   id,
-  github,
+  seeMore,
   deployed,
   description,
 }) => {
@@ -84,7 +84,10 @@ const Project = ({
         ></img>
         <h3 className="modalTitle">{title}</h3>
         <p className="projectDescription">{description}</p>
-        <button className="btn" onClick={() => (window.location.href = github)}>
+        <button
+          className="btn"
+          onClick={() => (window.location.href = seeMore)}
+        >
           See more
         </button>
         <button

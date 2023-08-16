@@ -18,7 +18,7 @@ const SocialIcons = () => {
         <i
           className="fa-brands fa-github"
           aria-hidden="true"
-          title="Caitriona McAllister' GitHub Profile"
+          title="Caitriona McAllister's GitHub Profile"
         ></i>
       </a>
       <a

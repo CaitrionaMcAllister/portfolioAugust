@@ -17,12 +17,12 @@ function Background({ ready }) {
         height={window.innerHeight}
         camera={{ position: [0, 6, 20], fov: 40 }}
       >
-        <ambientLight intensity={0.1} />
+        {/* <ambientLight intensity={0.1} />
         <directionalLight color="red" position={[0, 0, 5]} />
         <mesh>
           <boxGeometry />
           <meshStandardMaterial />
-        </mesh>
+        </mesh> */}
         {/* <Model ready={ready} /> */}
         <CameraShake
           maxYaw={0.08} // Max amount camera can yaw in either direction
