@@ -4,7 +4,7 @@
     "image": "./projectImages/7.png",
     "description": "Plastic Vortex takes a deep dive into ocean plastics and marine debris caused by human negligence. The project is inspired by a NASA satellite data that tracks the movement of micro- plastics in a densely polluted area of the Pacific Ocean, also known as the Great Pacific Garbage Patch. This series of interactive visuals include an audio and motion reactive installation piece, supporting editorial and augmented reality animation.",
     "technologies": "Touch Designer | Projection Mapping | Data",
-    "seeMore": "https://caitrionamcallister.com/PlasticVortex",
+    "seeMore": "/PlasticVortex",
     "videoSummary": "https://youtu.be/eZFFE6rRdx4",
     "bgcolor": "#0000ff",
     "id": "1"

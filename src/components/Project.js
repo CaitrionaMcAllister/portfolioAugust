@@ -11,7 +11,7 @@ const Project = ({
   color,
   id,
   seeMore,
-  deployed,
+  videoSummary,
   description,
 }) => {
   const [ref, inView] = useInView({
@@ -92,7 +92,7 @@ const Project = ({
         </button>
         <button
           className="btn"
-          onClick={() => (window.location.href = deployed)}
+          onClick={() => (window.location.href = videoSummary)}
         >
           Video Summary
         </button>

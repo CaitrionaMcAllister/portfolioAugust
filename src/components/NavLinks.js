@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { NavLink } from "react-router-dom";
+// import PlasticVortex from "../pages/projects/plasticVortex";
 
 import openMenu from "../images/open.svg";
 import closeMenu from "../images/close.svg";
@@ -38,19 +39,19 @@ const NavLinks = () => {
 
 export default NavLinks;
 
-// const ProjectLinks = () => {
-//   return (
-//     <>
-//       <nav>
-//         <NavLink to="/PlasticVortex">Plastic Vortex</NavLink>
-//         <NavLink to="/MarioMethod">Mario Method</NavLink>
-//         <NavLink to="/ByteMe">ByteMe</NavLink>
-//         <NavLink to="/HomeHeatMap">Home Heat Map</NavLink>
-//         <NavLink to="/Chill">Chill</NavLink>
-//         <NavLink to="/Experiments">Experiments</NavLink>
-//       </nav>
-//     </>
-//   );
-// };
+const ProjectLinks = () => {
+  return (
+    <>
+      <nav>
+        <NavLink to="/PlasticVortex">Plastic Vortex</NavLink>
+        <NavLink to="/MarioMethod">Mario Method</NavLink>
+        <NavLink to="/ByteMe">ByteMe</NavLink>
+        <NavLink to="/HomeHeatMap">Home Heat Map</NavLink>
+        <NavLink to="/Chill">Chill</NavLink>
+        <NavLink to="/Experiments">Experiments</NavLink>
+      </nav>
+    </>
+  );
+};
 
-// export { ProjectLinks };
+export { ProjectLinks };
