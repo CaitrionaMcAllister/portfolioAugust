@@ -1,12 +1,12 @@
 import { Canvas } from "@react-three/fiber";
 import { Sparkles, CameraShake } from "@react-three/drei";
-// import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
-// import { useLoader } from "@react-three/fiber";
+import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
+import { useLoader } from "@react-three/fiber";
 
-// function Model() {
-//   const model = useLoader(GLTFLoader, "../pages/landing/scene.glb");
-//   return <primitive object={model.scene} scale={0.03} position={[0, -7, 0]} />;
-// }
+function Model() {
+  const model = useLoader(GLTFLoader, "../pages/landing/scene.glb");
+  return <primitive object={model.scene} scale={0.03} position={[0, -7, 0]} />;
+}
 
 function Background({ ready }) {
   return (
@@ -17,7 +17,6 @@ function Background({ ready }) {
         height={window.innerHeight}
         camera={{ position: [0, 6, 20], fov: 40 }}
       >
-        {/* <fog attach="fog" args={["#cc7b32", 0, 500]} /> */}
         <ambientLight intensity={0.1} />
         <directionalLight color="red" position={[0, 0, 5]} />
         <mesh>
