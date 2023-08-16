@@ -1,9 +1,10 @@
 // import { motion } from "framer-motion";
 import Typewriter from "typewriter-effect";
 // import landingImage from "../../images/me.svg";
-import Draw from "../../components/Draw";
+// import Draw from "../../components/Draw";
 import SocialIcons from "../../components/SocialIcons";
 import Background from "../../components/Background";
+import Cursor from "../../components/Cursor";
 
 const Landing = ({ name }) => {
   const styles = {
@@ -43,7 +44,8 @@ const Landing = ({ name }) => {
   return (
     <section className="landing" style={styles.landing}>
       <Background />
-      <Draw />
+      <Cursor />
+      {/* <Draw /> */}
       <div className="textContainer" style={styles.textContainer}>
         <h1 className="name" style={styles.name}>
           {name}
